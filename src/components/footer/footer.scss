@@ -1,0 +1,17 @@
+@import "../../constant/colors.scss";
+
+.footer{
+    background-color: $secondary-color;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    text-align: center;
+    padding: 20px;
+}
+.container p{
+    font-size: 14px;
+    margin-top: 8px;
+}
